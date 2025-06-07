@@ -1,6 +1,6 @@
 #  The Gospel of Mark
 
-Public domain Bible translations of the Gospel of Mark.
+Public domain Bible translations of the Gospel of Mark, edited so they have the exact same verse numbering and paragraphs, for easy comparison.
 
 
 English:

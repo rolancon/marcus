@@ -13,7 +13,7 @@ VB [Vrije Bijbel]
 Welsh
 
 Gothic
-[also in Latin transliteration]
+(also in transliteration)
 
 Latin
 

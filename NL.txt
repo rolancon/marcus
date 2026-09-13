@@ -121,7 +121,7 @@ Het Evangelie Volgens Marcus
 
 02:11 "Ik zeg je: sta op, neem je matras op en ga naar je huis."
 
-02:12 En hij stond op, nam meteen zijn matrasop en ging voor de ogen van allen naar buiten, zodat zij allen verbaasd waren en God verheerlijkten, zeggende: "Zoiets hebben wij nog nooit gezien."
+02:12 En hij stond op, nam meteen zijn matras op en ging voor de ogen van allen naar buiten, zodat zij allen verbaasd waren en God verheerlijkten: "Zoiets hebben wij nog nooit gezien."
 
 
 02:13 En hij ging opnieuw naar buiten langs het meer, en de hele menigte kwam naar hem toe, en hij leerde hen.
@@ -180,7 +180,9 @@ Het Evangelie Volgens Marcus
 
 03:10 hij had er immers velen genezen, zodat allen die ziek waren, zich bij hem verdrongen om hem aan te raken.
 
-03:11 En toen de onreine geesten hem zagen, vielen zij voor hem neer en riepen, zeggende: "Jij bent de Zoon van God."
+03:11 En toen de onreine geesten hem zagen, vielen zij voor hem neer en riepen
+
+: "Jij bent de Zoon van God."
 
 03:12 En hij beval hun nadrukkelijk hem niet bekend te maken.
 
@@ -229,7 +231,8 @@ En hij ging een huis binnen.
 
 03:32 En er zat een menigte rondom hem; zij zeiden tot hem: "Kijk, je moeder en je broers zijn buiten en zoeken jou."
 
-03:33 En hij antwoordde hun, zeggende: "Wie zijn mijn moeder en mijn broers?"
+03:33 En hij antwoordde hun
+: "Wie zijn mijn moeder en mijn broers?"
 
 03:34 En terwijl hij rondkeek naar degenen die om hem heen zaten, zei hij: "Kijk, mijn moeder en mijn broers!
 
@@ -346,7 +349,7 @@ En hij ging een huis binnen.
 
 05:11 Op de berg was toen een grote kudde varkens aan het grazen.
 
-05:12 En zij smeekten hem, zeggende: "Stuur ons naar die varkens, dan kunnen wij bij hun naarbinnen gaan."
+05:12 En zij smeekten hem: "Stuur ons naar die varkens, dan kunnen wij bij hun naarbinnen gaan."
 
 05:13 En hij liet hun dat doen. Toen de onreine geesten uitgegaan waren, gingen zij in de varkens; en de kudde stortte zich langs de steile oever het meer in, ongeveer tweeduizend stuks, en verdronk in het meer.
 
@@ -464,7 +467,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 06:24 Toen ging ze naar buiten en zei tegen haar moeder: "Wat zal ik vragen?" En deze zei: "Het hoofd van Johannes de Doper."
 
-06:25 Ze ging meteen met spoed naar de koning en vroeg, zeggende: "Ik wil dat u mij gelijk op een schotel het hoofd van Johannes de Doper geeft."
+06:25 Ze ging meteen met spoed naar de koning en vroeg: "Ik wil dat u mij gelijk op een schotel het hoofd van Johannes de Doper geeft."
 
 06:26 De koning was zeer bedroefd; maar vanwege zijn eden en vanwege degenen die met hem aten, wilde hij haar niet weigeren.
 
@@ -639,9 +642,9 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 08:14 En ze vergaten brood mee te nemen; ze hadden maar één brood bij zich in de boot.
 
-08:15 Hij gebood hun, zeggende: "Wees op je hoede voor de gist van de Farizeeën en voor de gist van Herodes."
+08:15 Hij gebood hun: "Wees op je hoede voor de gist van de Farizeeën en voor de gist van Herodes."
 
-08:16 Ze overlegden met elkaar, zeggende: "Het is omdat wij geen brood hebben."
+08:16 Ze overlegden met elkaar: "Het is omdat wij geen brood hebben."
 
 08:17 Toen Jezus dit bemerkte, zei hij tegen hen: "Waarom overleggen jullie, dat je geen brood hebt? Begrijpen jullie het nog steeds niet? Is je hart verhard?
 
@@ -711,7 +714,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 09:10 Ze bewaarden dit woord en vroegen zich onder elkaar af, wat de betekenis was van "uit de doden opstaan".
 
-09:11 En ze vroegen hem, zeggende: "Waarom zeggen de schriftgeleerden, dat Elia eerst moet komen?"
+09:11 En ze vroegen hem: "Waarom zeggen de schriftgeleerden, dat Elia eerst moet komen?"
 
 09:12 Hij zei tegen hen: "Elia komt inderdaad eerst en herstelt alles. Hoe staat er dan over de Mensenzoon geschreven dat hij veel moet lijden en veracht wordt?
 
@@ -728,7 +731,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 09:18 en waar het hem ook grijpt, het gooit hem neer, en hij schuimt en knarst met zijn tanden en verstijft; en ik heb met je discipelen gesproken om het uit te drijven; maar dat konden ze niet."
 
-09:19 Hij antwoordde hun, zeggende: "O ongelovig geslacht, hoe lang zal ik nog bij je zijn? Hoe lang zal ik je nog verdragen? Breng hem naar mij."
+09:19 Hij antwoordde hun: "O ongelovig geslacht, hoe lang zal ik nog bij je zijn? Hoe lang zal ik je nog verdragen? Breng hem naar mij."
 
 09:20 Ze brachten hem tot hem; toen hij hem zag, deed de geest hem onmiddellijk stuiptrekken, en hij viel op de grond en rolde rond, terwijl het schuim op de mond stond.
 
@@ -863,9 +866,9 @@ En hij ging rond langs de dorpen om te onderwijzen.
 10:31 Maar veel eersten zullen de laatsten zijn, en veel laatsten de eersten."
 
 
-10:32 En ze waren op weg, opgaande naar Jeruzalem, en Jezus liep voorop; ze waren verbaasd, en degenen die hen volgden waren angstig. En hij nam de Twaalven weer apart en begon hun te vertellen wat er met hem zou gebeuren:
+10:32 En ze waren op weg, terwijl ze opgingen naar Jeruzalem, en Jezus liep voorop; ze waren verbaasd, en degenen die hen volgden waren angstig. En hij nam de Twaalven weer apart en begon hun te vertellen wat er met hem zou gebeuren:
 
-10:33 "Zie, we gaan op naar Jeruzalem; en de Mensenzoon zal aan de hogepriesters en schriftgeleerden overgeleverd worden; en ze zullen hem ter dood veroordelen en hem overleveren aan de heidenen;
+10:33 "Zie, we gaan op naar Jeruzalem; en de Mensenzoon zal aan de overpriesters en schriftgeleerden overgeleverd worden; en ze zullen hem ter dood veroordelen en hem overleveren aan de heidenen;
 
 10:34 ze zullen hem bespotten, bespuwen, geselen, en doden; en na drie dagen zal hij weer opstaan."
 
@@ -1015,7 +1018,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 12:17 Jezus antwoordde en zei tot hen: "Geef dan aan Caesar wat van Caesar is, en aan God wat van God is." En ze waren verbaasd over hem.
 
 
-12:18 Toen kwamen de Sadduceeën tot hem, die zeggen dat er geen opstanding is; en zij vroegen hem, zeggende:
+12:18 Toen kwamen de Sadduceeën tot hem, die zeggen dat er geen opstanding is; en zij vroegen hem:
 
 12:19 "Meester, Mozes heeft ons geschreven: 'Wanneer iemands broer sterft en een vrouw achterlaat en geen kinderen nalaat, moet zijn broer zijn vrouw nemen en voor zijn broer nageslacht verwekken.'
 
@@ -1031,7 +1034,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 12:25 Want wanneer ze uit de doden opstaan, trouwen ze niet en worden ze niet ten huwelijk genomen, maar zijn als engelen in de hemel.
 
-12:26 Maar wat betreft de opstanding van de doden, hebben jullie niet gelezen in het boek van Mozes, bij de braamstruik, hoe God tot hem sprak, zeggende: 'Ik ben de God van Abraham, de God van Izak en de God van Jakob'?
+12:26 Maar wat betreft de opstanding van de doden, hebben jullie niet gelezen in het boek van Mozes, bij de braamstruik, hoe God tot hem sprak: 'Ik ben de God van Abraham, de God van Izak en de God van Jakob'?
 
 12:27 Hij is niet een God van doden, maar van levenden; jullie dwalen wel zeer."
 
@@ -1048,7 +1051,7 @@ En hij ging rond langs de dorpen om te onderwijzen.
 
 12:33 en hem liefhebben met heel het hart, en met heel het verstand, en met heel de kracht, en de naaste liefhebben als zichzelf, is meer dan alle brandoffers en zondoffers."
 
-12:34 Jezus, ziende dat hij wijs geantwoord had, zei tot hem: "Je bent niet ver van Gods Koninkrijk." En niemand durfde hem nog meer vragen te stellen.
+12:34 Jezus, toen hij zag dat hij wijs geantwoord had, zei tot hem: "Je bent niet ver van Gods Koninkrijk." En niemand durfde hem nog meer vragen te stellen.
 
 
 12:35 En Jezus antwoordde en zei, terwijl hij in de tempel leerde: "Hoe zeggen de schriftgeleerden, dat de Christus de Zoon van David is?
@@ -1076,7 +1079,7 @@ En de grote menigte luisterde met genoegen naar hem.
 12:44 Want zij hebben allen van hun overvloed erin gegooid, maar zij heeft van haar armoede erin gegooid al wat zij had, haar hele levensonderhoud."
 
 
-13:01 En toen hij de tempel verliet, zei één van zijn discipelen tot hem: "Meester, wat voor stenen en wat voor gebouwen zijn dit!"
+13:01 En toen hij de tempel verliet, zei één van zijn discipelen tegen hem: "Meester, wat voor stenen en wat voor gebouwen zijn dit!"
 
 13:02 Jezus zei tegen hem: "Zie je deze grote bouwwerken? Hier zal geen steen op de andere gelaten worden die niet afgebroken zal worden."
 
@@ -1086,17 +1089,17 @@ En de grote menigte luisterde met genoegen naar hem.
 
 13:05 Jezus begon te praten en zei tegen hen: "Zie erop toe, dat niemand je verleidt.
 
-13:06 Velen zullen komen onder mijn naam en zeggen: 'Ik ben het,' en ze zullen velen verleiden.
+13:06 Velen zullen komen in mijn naam en zeggen: 'Ik ben het,' en ze zullen velen verleiden.
 
-13:07 Als je hoort van oorlogen en geruchten van oorlogen, wees dan niet verontrust: dit moet gebeuren; maar het is nog niet voorbij.
+13:07 Als je hoort van oorlogen en geruchten van oorlogen, wees dan niet verontrust: dit moet gebeuren; maar het is nog niet het einde.
 
-13:08 Want volk zal tegen volk opstaan, en koninkrijk tegen koninkrijk; er zullen aardbevingen zijn op verschillende plaatsen en er zal hongersnood zijn; dit is het begin van het lijden.
+13:08 Want volk zal tegen volk opstaan, en koninkrijk tegen koninkrijk; er zullen aardbevingen zijn op verschillende plaatsen en er zullen hongersnoden zijn; dit is het begin van het lijden.
 
-13:09 Maar wees op je hoede; want men zal jullie overleveren aan de rechtszittingen, en jullie zullen in de synagogen gegeseld worden; en je zal omwille van mij voor stadhouders en koningen staan, om voor hen een getuigenis te zijn.
+13:09 Maar wees op je hoede; want men zal jullie overleveren aan de gerechtshoven, en jullie zullen in de synagogen gegeseld worden; en je zal omwille van mij voor stadhouders en koningen staan, om voor hen een getuigenis te zijn.
 
 13:10 Het evangelie moet eerst aan alle volken gepredikt worden.
 
-13:11 Wanneer ze jullie wegvoeren en overleveren, wees dan van tevoren niet bezorgd over wat je spreken zult, maar spreek wat je op dat moment gegeven wordt; want het zijn niet jullie die spreken, maar de Heilige Geest.
+13:11 Wanneer ze jullie wegvoeren en overleveren, wees dan van tevoren niet bezorgd over wat je zal spreken, maar spreek wat je op dat moment gegeven wordt; want het zijn niet jullie die spreken, maar de Heilige Geest.
 
 13:12 Een broer zal zijn broer overleveren aan de dood, en een vader zijn kind; en de kinderen zullen zich tegen hun ouders keren en hen ter dood laten brengen.
 
@@ -1108,7 +1111,7 @@ En de grote menigte luisterde met genoegen naar hem.
 
 13:16 en wie op het veld is, moet niet terugkeren om zijn mantel te halen.
 
-13:17 Maar wee de zwangeren en de zogenden in die dagen!
+13:17 Maar wee de zwangere vrouwen en de zogende moeders in die dagen!
 
 13:18 Bid dat het geen winter zal zijn.
 
@@ -1116,71 +1119,71 @@ En de grote menigte luisterde met genoegen naar hem.
 
 13:20 Indien de Heer die dagen niet had ingekort, zou geen vlees behouden worden; maar ter wille van de uitverkorenen, die hij uitverkoren had, heeft hij de dagen ingekort.
 
-13:21 Als dan iemand tot je zegt: 'Kijk, hier is de Christus', of, 'zie, daar'; geloof het niet;
+13:21 Als dan iemand tot je zegt: 'Kijk, hier is de Christus', of, 'kijk, hij is daar'; geloof het niet;
 
-13:22 want er zullen valse Christussen en valse profeten opstaan, die tekenen en wonderen zullen doen, om, indien mogelijk, ook de uitverkorenen te verleiden.
+13:22 want er zullen valse christussen en valse profeten opstaan, die tekenen en wonderen zullen doen, om, indien mogelijk, ook de uitverkorenen te verleiden.
 
-13:23 Maar wees op je hoede; hier heb ik je alles voorspeld.
+13:23 Maar wees op je hoede; ik heb jullie toch alles voorspeld.
 
 13:24 Maar in die dagen, na die verdrukking, zal de zon verduisterd worden en de maan zal haar licht niet geven,
 
-13:25 de sterren zullen van de hemel vallen en de machten die in de hemelen zijn, zullen wankelen.
+13:25 de sterren zullen uit de hemel vallen en de machten die in de hemelen zijn, zullen wankelen.
 
-13:26 Dan zullen ze de Mensenzoon zien komen op de wolken, met grote kracht en heerlijkheid.
+13:26 Dan zullen ze de Mensenzoon zien komen in de wolken, met grote kracht en heerlijkheid.
 
 13:27 En dan zal hij de engelen uitzenden en zijn uitverkorenen verzamelen uit de vier windstreken, van het einde van de aarde tot het einde van de hemel.
 
-13:28 Leer nu van de vijgenboom een ​​les: wanneer zijn takken al zacht worden en bladeren uitspruiten, weet je daaraan dat de zomer nabij is.
+13:28 Leer nu van de vijgenboom een ​​les: wanneer zijn takken al zacht worden en er bladeren uitspruiten, weet je dat de zomer nabij is.
 
-13:29 Zo ook jij, wanneer je deze dingen ziet gebeuren, weet dan dat hij nabij is, voor de deur.
+13:29 Zo ook jij, wanneer je deze dingen ziet gebeuren, weet dan dat het nabij is, voor de deur.
 
-13:30 Voorwaar, ik zeg je: dit geslacht zal zeker niet verdwijnen, voordat al deze dingen gebeurd zijn.
+13:30 Voorwaar, ik zeg je: deze generatie zal zeker niet verdwijnen, voordat al deze dingen gebeurd zijn.
 
 13:31 De hemel en de aarde zullen voorbijgaan, maar mijn woorden zullen niet voorbijgaan."
 
 
-13:32 "Maar van die dag en dat uur weet niemand, ook de engelen in de hemel niet, ook de Zoon niet, maar de Vader alleen.
+13:32 "Maar die dag en dat uur weet niemand, ook de engelen in de hemel niet, ook de Zoon niet, maar de Vader alleen.
 
-13:33 Wees waakzaam, waak en bid; omdat je niet weet wanneer het juiste moment zal zijn.
+13:33 Wees waakzaam, waak en bid; omdat je niet weet wanneer het deze tijd zal zijn.
 
 13:34 Het is als een man die op reis ging. Hij verliet zijn huis en gaf zijn dienaren volmacht over het werk dat ze moesten doen. En hij gaf de deurwachter opdracht de wacht te houden.
 
-13:35 Wees daarom waakzaam; want je weet niet wanneer de heer van het huis zal komen: 's avonds, of te middernacht, of bij het kraaien van de haan, of 's morgens vroeg;
+13:35 Wees daarom waakzaam; want je weet niet wanneer de heer van het huis zal komen: 's avonds, of om middernacht, of bij het kraaien van de haan, of 's morgens vroeg;
 
-13:36 opdat hij je niet plotseling slapende aantreft.
+13:36 opdat hij je niet plotseling slapend aantreft.
 
-13:37 Wat ik tot je zeg, zeg ik tot allen: 'Waak'."
-
-
-14:01 En na twee dagen was het Pascha, het feest van de ongezuurde broden. En de overpriesters en de schriftgeleerden zochten naar een manier om hem met list te grijpen en te doden, maar ze deden dat niet.
-
-14:02 Want ze zeiden: "Niet op het feest", zodat er geen opschudding onder het volk zou ontstaan.
+13:37 Wat ik tot je zeg, zeg ik tot allen: 'Wees waakzaam'."
 
 
-14:03 En terwijl hij te Betanië was, in het huis van Simon de melaatse, en aan tafel zat, kwam er een vrouw met een albasten flesje met zuivere narduszalf, zeer kostbaar, en ze brak het flesje en goot het over zijn hoofd.
+14:01 En na twee dagen was het Pascha, het feest van de ongezuurde broden. De overpriesters en de schriftgeleerden zochten naar een manier om hem met een list te grijpen en te doden, maar ze deden dat niet.
 
-14:04 Sommigen werden verontwaardigd onder elkaar, zeggende: "Waarom heeft men deze verspilling van de zalf gedaan?
+14:02 Want ze zeiden: "Niet op het feest", zodat er geen opschudding onder het volk zal ontstaan.
 
-14:05 Want deze zalf had voor meer dan driehonderd denariën verkocht en aan de armen gegeven kunnen worden." En ze morden tegen haar.
+
+14:03 En toen hij in Betanië was, in het huis van Simon de melaatse, en aan tafel aanlag, kwam er een vrouw met een albasten kruikje met zuivere nardusmirre, zeer kostbaar, en ze brak het kruikje en goot het over zijn hoofd.
+
+14:04 Sommigen werden verontwaardigd, en zeiden tegen elkaar: "Waarom heeft men deze verspilling van de mirre gedaan?
+
+14:05 Want deze mirre had voor meer dan driehonderd denariën verkocht en aan de armen gegeven kunnen worden." En ze morden tegen haar.
 
 14:06 Jezus zei: "Laat haar met rust; waarom val je haar lastig? Ze heeft iets goeds voor mij gedaan.
 
-14:07 Want de armen hebt je altijd bij je, en wanneer je wilt, kun je hun goeddoen; maar je hebt mij niet altijd.
+14:07 Want de armen heb je altijd bij je, en wanneer je wilt, kun je hun goeddoen; maar je hebt mij niet altijd.
 
-14:08 Wat ze kon, deed ze; ze bereidde de balseming van mijn lichaam voor op de begrafenis.
+14:08 Wat ze kon, deed ze; ze bereidde de balseming van mijn lichaam op de begrafenis voor.
 
 14:09 Voorwaar, ik zeg je: overal ter wereld waar het Evangelie verkondigd wordt, zal ook tot haar gedachtenis verteld worden wat ze gedaan heeft."
 
-14:10 Toen ging Judas Iskariot, één van de Twaalven, naar de hogepriesters om hem aan hen over te leveren.
+14:10 Toen ging Judas Iskariot, één van de Twaalven, naar de overpriesters om hem aan hen over te leveren.
 
-14:11 Toen ze dit hoorden, werden ze blij en beloofden hem geld te geven. En hij zocht naar een manier om hem op een gemakkelijke manier te verraden.
+14:11 Toen ze dit hoorden, werden ze blij en beloofden hem geld te geven. En hij zocht hoe om hem op een goede gelegenheid over te leveren.
 
 
 14:12 En op de eerste dag van het feest van de ongezuurde broden, toen ze het Paaslam slachtten, zeiden zijn discipelen tegen hem: "Waar wil je dat we naartoe gaan om voorbereidingen te treffen, zodat je het Paasmaal kunt eten?"
 
-14:13 Hij zond twee van zijn discipelen uit en zei tegen hen: "Ga heen in de stad, en een man zal jullie ontmoeten, die een kruik water draagt;
+14:13 Hij zond twee van zijn discipelen uit en zei tegen hen: "Ga de stad in, en een man zal jullie ontmoeten, die een kruik water draagt;
 
-14:14 volg hem, en waar hij ook binnengaat, zeg tegen de heer van het huis: 'De Meester vraagt: waar is mijn gastenkamer, waar ik met mijn discipelen het Paasmaal kan eten?'
+14:14 volg hem, en zeg tegen de heer van het huis waar hij binnengaat: 'De Meester vraagt: waar is mijn gastenkamer, waar ik met mijn discipelen het Paasmaal kan eten?'
 
 14:15 Hij zal jullie een grote bovenzaal laten zien, ingericht en uitgerust; en daar bereid je het voor ons voor."
 
@@ -1190,23 +1193,23 @@ En de grote menigte luisterde met genoegen naar hem.
 
 14:18 Terwijl ze aanlagen en aten, zei Jezus: "Voorwaar, ik zeg je, één van jullie zal mij verraden, één die met mij eet."
 
-14:19 Ze begonnen bedroefd te worden en de één na de ander tot hem te zeggen: "Ik ben het toch niet?"
+14:19 Ze begonnen bedroefd te worden en de één na de ander tot hem te zeggen: "Ik ben het toch niet?" (En een ander zei: "Ik toch zeker niet?")
 
 14:20 Maar hij zei tegen hen: "Het is één van de Twaalven, die met mij in de schotel indoopt.
 
 14:21 De Mensenzoon zal heengaan zoals over hem geschreven staat; maar wee de mens door wie de Mensenzoon verraden wordt! Als die persoon niet geboren was, zou het beter voor hem zijn geweest."
 
 
-14:22 En terwijl ze aten, nam hij het brood, sprak de zegen uit, brak het en gaf het hun, en zei: "Neem, dit is mijn lichaam."
+14:22 En terwijl ze aten, nam hij het brood, sprak de zegen uit, brak het en gaf het hun, en zei: "Neem, (eet,) dit is mijn lichaam."
 
 14:23 Hij nam een ​​beker, en toen hij gedankt had, gaf hij hun die; en iedereen dronk eruit.
 
-14:24 En hij zei tot hen: "Dit is Mijn bloed van het verbond, dat voor velen vergoten wordt.
+14:24 En hij zei tot hen: "Dit is mijn bloed van het nieuwe verbond, dat voor velen vergoten wordt.
 
-14:25 Voorwaar, ik zeg je, ik zal van nu af aan van deze vrucht van de wijnstok niet drinken, tot op de dag dat ik er nieuw van zal drinken in Gods Koninkrijk."
+14:25 Voorwaar, ik zeg je, ik zal vanaf nu niet meer van deze vrucht van de wijnstok drinken, tot op de dag dat ik er nieuw van zal drinken in Gods Koninkrijk."
 
 
-14:26 En nadat ze de lofzang gezongen hadden, gingen ze naar de Olijfberg.
+14:26 En nadat ze een lofzang gezongen hadden, gingen ze naar de Olijfberg.
 
 
 14:27 En Jezus zei tegen hen: "Jullie zullen allen aanstoot nemen; want er staat geschreven: 'Ik zal de herder slaan, en de schapen zullen verstrooid worden.'
@@ -1215,7 +1218,7 @@ En de grote menigte luisterde met genoegen naar hem.
 
 14:29 Maar Petrus antwoordde hem: "Ook al zouden alle anderen afvallen, ik niet."
 
-14:30 Jezus zei tegen hem: "Voorwaar, Ik zeg je, heden, in deze nacht, voordat de haan tweemaal gekraaid heeft, zul je Mij driemaal verloochenen."
+14:30 Jezus zei tegen hem: "Voorwaar, ik zeg je, heden, in deze nacht, voordat de haan tweemaal gekraaid heeft, zul je mij driemaal verloochenen."
 
 14:31 Maar hij zei met klem: "Zelfs al moet ik met u sterven, ik zal u niet verloochenen." En dat zeiden ze allemaal.
 
@@ -1226,59 +1229,59 @@ En de grote menigte luisterde met genoegen naar hem.
 
 14:34 Hij zei tegen hen: "Mijn ziel is zeer bedroefd, tot stervens toe; blijft hier en waak";
 
-14:35 en nadat hij een weinig verder gegaan was, viel hij op de grond neerde en bad, dat, indien het mogelijk was, dat uur aan hem voorbij zou gaan.
+14:35 en nadat hij een weinig verder gegaan was, viel hij op de grond neer en bad, dat, indien het mogelijk was, dat uur aan hem voorbij zou gaan.
 
-14:36 Hij zei: "Abba, Vader, alle dingen zijn U mogelijk; neem deze beker van mij weg; maar laat het niet zijn wat ik wil, maar wat U wilt."
+14:36 Hij zei: "Abba, Vader, alle dingen zijn mogelijk voor U; neem deze beker van mij weg; maar laat het niet zijn wat ik wil, maar wat U wilt."
 
-14:37 En hij kwam bij hen en vond hen slapende, en zei tot Petrus: "Simon, slaap je? Had je niet de kracht om ook maar een uur wakker te blijven?
+14:37 En hij kwam bij hen en vond hen in slaap, en zei tegen Petrus: "Simon, slaap je? Had je niet de kracht om ook maar één uur wakker te blijven?
 
-14:38 Waak en bid, opdat je niet in verzoeking komt. De geest is wel gretig, maar het vlees is zwak."
+14:38 Waak en bid, opdat je niet in verzoeking komt. De geest wil wel, maar het vlees is zwak."
 
 14:39 Hij ging weer weg en bad, terwijl hij dezelfde woorden sprak.
 
-14:40 En hij kwam weer, en vond hen slapende, want hun ogen waren zwaar; en ze wisten niet wat ze hem moesten antwoorden.
+14:40 En hij kwam weer terug, en vond hen in slaap, want hun ogen waren zwaar; en ze wisten niet wat ze hem moesten antwoorden.
 
-14:41 Hij kwam voor de derde maal en zei tot hen: "Slaap nu maar verder en rust uit; genoeg, het uur is gekomen; zie, de Mensenzoon wordt overgeleverd in de handen van zondaars.
+14:41 Hij kwam voor de derde maal terug en zei tegen hen: "Slaap nu maar verder en rust uit; genoeg, het uur is gekomen; zie, de Mensenzoon wordt overgeleverd in de handen van zondaars.
 
-14:42 Sta op, laten wij gaan; zie, mijn verrader komt dichterbij."
+14:42 Sta op, laten we gaan; zie, mijn verrader komt dichterbij."
 
 
-14:43 En meteen, terwijl hij nog sprak, kwam Judas, één van de Twaalven; en er kwam een ​​hele bende met zwaarden en knuppels bij hem aan, gestuurd door de overpriesters, de schriftgeleerden en de oudsten.
+14:43 En meteen, terwijl hij nog sprak, kwam Judas aan, één van de Twaalven; en met hem een ​​hele bende met zwaarden en knuppels, gestuurd door de overpriesters, de schriftgeleerden en de oudsten.
 
-14:44 Zijn verrader had hun een teken gegeven en gezegd: "Degene die ik kussen zal, die is het; vang hem en breng hem voorzichtig weg."
+14:44 Zijn verrader had hun een teken gegeven en gezegd: "Degene die ik kussen zal, die is het; neem hem gevangen en breng hem beveiligd weg."
 
-14:45 Toen hij gekomen was, ging hij meteen naar hem toe en zei: "Rabbi", en kuste hem.
+14:45 Toen hij aangekomen was, ging hij meteen naar hem toe en zei: "Rabbi!", en kuste hem.
 
 14:46 Ze sloegen de handen aan hem en namen hem gevangen.
 
 14:47 Maar één van de omstanders trok zijn zwaard, trof de slaaf van de hogepriester en sloeg hem het oor af.
 
-14:48 Jezus antwoordde en zei tegen hen: "Zijn jullie uitgegaan, als tegen een misdadiger, met zwaarden en stokken, om mij gevangen te nemen?"
+14:48 Jezus antwoordde en zei tegen hen: "Zijn jullie uitgegaan, als tegen een misdadiger, met zwaarden en knuppels, om mij gevangen te nemen?
 
-14:49 Ik was dagelijks bij jullie in de tempel en gaf daar onderricht, en je hebt mij niet meegenomen; maar opdat de Schriften vervuld zouden worden."
+14:49 Ik was dagelijks bij jullie in de tempel en gaf daar onderricht, en je hebt mij niet gevangen genomen; maar dit was zodat de Schriften vervuld zouden worden."
 
-14:50 Ze verlieten hem allen en vluchtten.
+14:50 Toen verlieten ze hem allen en vluchtten.
 
-14:51 Een zekere jongeman volgde hem, met een linnen kleed om zijn naakte lichaam geslagen, en ze vingen hem;
+14:51 Een zekere jongeman volgde hem, met een linnen kleed om zijn naakte lichaam geslagen, en ze grepen hem;
 
-14:52 maar hij liet het linnen kleed achter en vluchtte naakt.
+14:52 maar hij liet het linnen kleed achter en vluchtte naakt weg.
 
 
 14:53 En ze leidden Jezus weg naar de hogepriester, en alle overpriesters, oudsten en schriftgeleerden kwamen bij hem bijeen.
 
 14:54 Petrus volgde hem op een afstand, tot in het paleis van de hogepriester; en zat met zijn ondergeschikten bij het vuur zich op te warmen.
 
-14:55 Maar de overpriesters en het hele Sanhedrin zochten naar een getuigenis tegen Jezus, zodat ze hem ter dood konden brengen, maar ze vonden er geen.
+14:55 En de overpriesters en het hele Sanhedrin zochten naar een getuigenis tegen Jezus, zodat ze hem ter dood konden brengen, maar ze vonden er geen.
 
-14:56 Want velen legden valse getuigenissen tegen hem af, en hun getuigenissen stemden niet overeen.
+14:56 Want velen legden valse getuigenissen tegen hem af, maar hun getuigenissen stemden niet overeen.
 
-14:57 Er stonden sommigen op, die een vals getuigenis tegen hem aflegden, zeggende:
+14:57 Er stonden sommigen op, die een vals getuigenis tegen hem aflegden:
 
 14:58 "Wij hebben hem horen zeggen: 'Ik zal deze tempel die met handen gemaakt is, afbreken en in drie dagen een andere bouwen, die niet met handen gemaakt is.'"
 
 14:59 Zelfs hun getuigenissen stemden niet overeen.
 
-14:60 De hogepriester stond in het midden op en vroeg Jezus, zeggende: "Antwoord je niets? Wat getuigen deze tegen jou?"
+14:60 De hogepriester stond op, trad naar voren, en vroeg Jezus: "Antwoord je niets? Wat getuigen deze tegen jou?"
 
 14:61 Maar hij bleef zwijgen en antwoordde niets. Opnieuw ondervroeg de hogepriester hem en zei tegen hem: "Ben jij de Christus, de Zoon van de Gezegende?"
 
@@ -1288,27 +1291,27 @@ En de grote menigte luisterde met genoegen naar hem.
 
 14:64 Jullie hebben de godslastering gehoord: wat denken jullie?" En ze oordeelden allemaal dat hij de dood verdiende.
 
-14:65 Sommigen begonnen op hem te spugen en zijn aangezicht te bedekken en hem met vuisten te slaan en tegen hem te zeggen: "Profeteer, want ik zal u verdrukken"; en de ondergeschikten sloegen hem met de handpalmen.
+14:65 Sommigen begonnen op hem te spugen en zijn gezicht te bedekken en hem met vuisten te slaan en tegen hem te zeggen: "Profeteer eens(, want ik zal u verdrukken)!"; en de ondergeschikten sloegen hem met de handpalmen.
 
 
-14:66 En terwijl Petrus beneden op de binnenplaats was, kwam er één van de dienstmaagden van de hogepriester;
+14:66 En terwijl Petrus beneden op de binnenplaats was, kwam er één van de dienstmeisjes van de hogepriester;
 
 14:67 toen ze Petrus zag, die zich opwarmde, keek ze hem aan en zei: "Jij was ook bij die Nazarener, bij Jezus."
 
 14:68 Maar hij ontkende het en zei: "Ik weet het niet, en ik begrijp ook niet wat je zegt." En hij ging de zaal in, en een haan kraaide.
 
-14:69 Toen het meisje hem zag, begon ze opnieuw te zeggen tegen de mensen die erbij stonden: "Dit is één van hen."
+14:69 Toen het dienstmeisje hem daar zag, begon ze opnieuw te zeggen tegen de mensen die erbij stonden: "Dit is één van hen."
 
-14:70 Hij ontkende het opnieuw. En kort daarna zeiden de omstanders opnieuw tegen Petrus: "Jij bent vast en zeker één van hen, want je bent een Galileeër."
+14:70 Hij ontkende het opnieuw. En kort daarna zeiden de omstanders opnieuw tegen Petrus: "Jij bent vast en zeker één van hen, je bent een Galileeër(, want je taalgebruik is daarmee in overeenstemming)."
 
-14:71 En hij begon te vloeken en te zweren, zeggende: "Ik ken deze Mens niet, van wie jullie spreken."
+14:71 En hij begon te vloeken en te zweren: "Ik ken deze man niet, van wie jullie spreken."
 
-14:72 Meteen kraaide de haan voor de tweede maal. En Petrus herinnerde zich het woord dat Jezus tot hem had gesproken: "Voordat de haan tweemaal kraait, zul je mij driemaal verloochenen." En nadat hij erover nadacht, begon hij te huilen.
+14:72 Meteen kraaide de haan voor de tweede maal. En Petrus herinnerde zich het woord dat Jezus tot hem had gesproken: "Voordat de haan tweemaal kraait, zul je mij driemaal verloochenen." En nadat hij erover nagedacht had, begon hij te huilen.
 
 
 15:01 En de volgende morgen lieten de overpriesters Jezus onmiddellijk boeien, na overleg met de oudsten, de schriftgeleerden en het hele Sanhedrin, en leidden hem weg en leverden hem over aan Pilatus.
 
-15:02 Pilatus vroeg hem: "Ben jij de Koning van de Joden?" En hij antwoordde hem: "Dat zeg jij."
+15:02 Pilatus vroeg hem: "Ben jij de Koning van de Joden?" En hij antwoordde hem: "Zoals je zegt."
 
 15:03 De overpriesters beschuldigden hem van vele dingen.
 
@@ -1317,17 +1320,17 @@ En de grote menigte luisterde met genoegen naar hem.
 15:05 Maar Jezus antwoordde nog steeds niet, zodat Pilatus zich verbaasde.
 
 
-15:06 En bij dat feest was het zijn gewoonte één gevangene vrij te laten, op verzoek van hen.
+15:06 En bij dat feest was het zijn gewoonte één gevangene vrij te laten, op verzoek van het volk.
 
 15:07 Er was iemand die Barabbas heette en die samen met de oproerkraaiers gevangen zat. Hij had in het oproer een moord gepleegd.
 
-15:08 Toen hij dichterbij kwam, vroegen de mensen hem wat hij voor hen deed.
+15:08 Toen de menigte dichterbij kwam, vroegen de mensen hem te doen wat hij gebruikelijk deed.
 
-15:09 Pilatus antwoordde hun en zei: "Willen jullie dat ik de Koning van de Joden voor jullie vrijlaat?"
+15:09 Pilatus antwoordde hun en zei: "Willen jullie dat ik de Koning van de Joden vrijlaat voor jullie?"
 
 15:10 Hij wist namelijk dat de overpriesters hem uit afgunst hadden overgeleverd.
 
-15:11 Maar de hogepriesters hitsten de menigte op om hem te vragen in zijn plaats Barabbas vrij te laten.
+15:11 Maar de overpriesters hitsten de menigte op om hem te vragen in zijn plaats Barabbas vrij te laten.
 
 15:12 Pilatus antwoordde en zei weer tegen hen: "Wat zal ik dan doen met hem, die jullie de Koning van de Joden noemen?"
 
@@ -1338,41 +1341,41 @@ En de grote menigte luisterde met genoegen naar hem.
 15:15 En Pilatus, die de menigte tevreden wilde stellen, liet Barabbas voor hen los. En nadat hij Jezus gegeseld had, gaf hij hem over om gekruisigd te worden.
 
 
-15:16 En de soldaten leidden hem weg naar het paleis, dat het pretorium heet, en riepen het hele cohort bijeen.
+15:16 En de soldaten leidden hem weg naar het hof, dat het Pretorium heet, en riepen het hele cohort bijeen.
 
-15:17 Ze kleedden hem met purper, en vlochten een kroon van doornen, en zetten die hem op;
+15:17 Ze kleedden hem met purper, vlochten een kroon van doornen, en zetten die hem op;
 
 15:18 en ze begonnen hem te groeten: "Gegroet, Koning van de Joden!"
 
-15:19 Ze sloegen hem met een rietstok op het hoofd en spuwden op hem; en ze knielden neer en aanbaden hem.
+15:19 Ze sloegen hem met een rieten stok op het hoofd en spuugden op hem; en ze knielden neer en aanbaden hem.
 
 15:20 Nadat ze hem bespot hadden, trokken ze hem het purper uit en deden hem zijn kleren weer aan. En ze leidden hem naar buiten om hem te kruisigen.
 
 
-15:21 En ze dwongen een voorbijganger, Simon van Cyrene, de vader van Alexander en Rufus, om zijn kruis te dragen.
+15:21 En ze dwongen een voorbijganger die van het land kwam, Simon van Cyrene, de vader van Alexander en Rufus, om zijn kruis te dragen.
 
 
 15:22 En ze brachten hem naar de plaats Golgota, wat betekent: 'Schedelplaats'.
 
 15:23 Ze boden hem wijn gemengd met mirre aan, maar hij nam die niet aan.
 
-15:24 En ze kruisigden hem en verdeelden zijn kleren onder elkaar, terwijl ze erom wierpen, wat ieder krijgen zou.
+15:24 En ze kruisigden hem en verdeelden zijn kleren onder elkaar, terwijl ze erom lootten, wat ieder krijgen zou.
 
 15:25 Het was het derde uur, toen ze hem kruisigden.
 
-15:26 Het opschrift van zijn beschuldiging was geschreven: "DE KONING VAN DE JODEN."
+15:26 Op het opschrift van zijn beschuldiging was geschreven: "DE KONING VAN DE JODEN."
 
-15:27 Ze kruisigden met hem twee misdadigers, één aan zijn rechterzijde en één aan zijn linkerzijde.
+15:27 Ze kruisigden met hem twee rovers, één aan zijn rechterzijde en één aan zijn linkerzijde.
 
-15:28 De Schrift werd vervuld, die zegt: "En hij werd met de overtreders geteld."
+15:28 De Schrift werd hierdoor vervuld, die zegt: "En hij werd tot de misdadigers gerekend."
 
-15:29 De voorbijgangers beledigden hem, schudden hun hoofd en zeiden: "Aha, aha! Jij die de tempel afbreekt en in drie dagen opbouwt,
+15:29 De voorbijgangers beledigden hem, schudden hun hoofd en zeiden: "Ha, ha! Jij die de tempel afbreekt en in drie dagen opbouwt,
 
 15:30 red jezelf, kom van het kruis af."
 
-15:31 Op dezelfde manier zeiden ook de overpriesters onder elkaar, samen met de schriftgeleerden: "Anderen heeft hij gered, hij kan zichzelf niet redden.
+15:31 Op dezelfde manier spotten ook de overpriesters onder elkaar, samen met de schriftgeleerden: "Anderen heeft hij gered, maar zichzelf kan hij niet redden.
 
-15:32 Laat de Christus, de Koning van Israël, nu van het kruis afkomen, zodat wij het kunnen zien en geloven." En zij die met hem gekruisigd waren, beschimpten hem.
+15:32 Laat de Christus, de Koning van Israël, nu van het kruis afkomen, zodat wij het kunnen zien en geloven." En zij die met hem gekruisigd waren, dreven ook de spot met hem.
 
 
 15:33 En toen het zesde uur aanbrak, kwam er duisternis over het gehele land, tot het negende uur toe.
@@ -1381,24 +1384,24 @@ En de grote menigte luisterde met genoegen naar hem.
 
 15:35 Toen sommigen van hen die erbij stonden, dit hoorden, zeiden ze: "Zie, hij roept Elia."
 
-15:36 Iemand rende er op af, liet een spons met zure wijn volzuigen, stak die op een rietstok en gaf hem te drinken, zeggende: "Geef hem, want hij zal drinken. Laten we eens kijken of Elia komt om hem van het kruis af te nemen."
+15:36 Iemand rende op hem toe, liet een spons met zure wijn volzuigen, stak die op een rieten stok en gaf hem te drinken, terwijl hij zei: "Laat hem maar. Laten we eens kijken of Elia komt om hem van het kruis af te nemen."
 
-15:37 Maar Jezus riep met luide stem en gaf de geest.
+15:37 Jezus riep met luide stem en gaf de geest.
 
 15:38 Het voorhangsel van de tempel scheurde in tweeën, van boven tot beneden.
 
-15:39 Toen de centurion, die tegenover hem stond, zag dat hij zo de geest gaf, zei hij: "Waarlijk, deze mens was Gods Zoon."
+15:39 Toen de centurion, die tegenover hem stond, zag dat hij zo de geest gaf, zei hij: "Deze mens was waarlijk Gods Zoon."
 
 15:40 Er stonden ook vrouwen van een afstand toe te kijken, onder wie Maria Magdalena, en Maria, de moeder van Jakobus de Jongere en van Joses, en Salomé;
 
-15:41 deze volgden hem en dienden hem, toen hij in Galilea was, en vele andere vrouwen die met hem naar Jeruzalem waren meegekomen.
+15:41 deze volgden hem en dienden hem, toen hij in Galilea was; en vele andere vrouwen die met hem naar Jeruzalem waren meegekomen waren daar ook.
 
 
-15:42 Toen het avond was geworden, omdat het Voorbereiding was, dat is de dag vóór de sabbat,
+15:42 Toen het avond was geworden, omdat het de dag van de Voorbereiding was, dat is de dag vóór de sabbat,
 
 15:43 kwam Jozef van Arimatea, een aanzienlijk raadsman, die ook zelf Gods Koninkrijk verwachtte, en hij ging vrijmoedig naar Pilatus en vroeg om het lichaam van Jezus.
 
-15:44 Pilatus vroeg zich af of hij reeds gestorven was. Hij riep de centurion bij zich en vroeg hem of hij al lang dood was.
+15:44 Pilatus was verrast te horen dat hij al gestorven was. Hij riep de centurion bij zich en vroeg hem of hij al lang dood was.
 
 15:45 Toen hij dit vernam van de centurion, gaf hij het lichaam aan Jozef.
 
@@ -1409,15 +1412,15 @@ En de grote menigte luisterde met genoegen naar hem.
 
 16:01 En toen de sabbat voorbij was, kochten Maria Magdalena, Maria, de moeder van Jakobus, en Salomé specerijen, om hem te gaan zalven.
 
-16:02 Op de eerste dag van de week kwamen ze heel vroeg bij het graf, toen de zon al op was.
+16:02 Op de eerste dag van de week kwamen ze heel vroeg bij het graf, toen de zon net op ging.
 
 16:03 Ze zeiden tegen elkaar: "Wie zal voor ons de steen van de ingang van het graf wegrollen?"
 
 16:04 Toen ze opkeken, zagen ze dat de steen was weggerold; omdat die heel groot was.
 
-16:05 En toen ze het graf binnengingen, zagen ze aan de rechterzijde een jongeman zitten, gekleed in een wit gewaad. en ze waren verbaasd.
+16:05 En toen ze het graf binnengingen, zagen ze aan de rechterzijde een jongeman zitten, gekleed in een wit gewaad, en ze waren ontsteld.
 
-16:06 Maar hij zei tegen hen: "Wees niet verbaasd. Jullie zoeken Jezus van Nazaret, die gekruisigd is; hij is opgewekt, hij is hier niet; dit is de plaats waar ze hem neergelegd hebben.
+16:06 Maar hij zei tegen hen: "Wees niet ontsteld. Jullie zoeken Jezus van Nazaret, die gekruisigd was; hij is opgewekt, hij is niet hier; dit is de plaats waar ze hem neergelegd hebben.
 
 16:07 Maar ga heen en zeg tegen zijn discipelen en tegen Petrus: 'Hij gaat jullie vóór naar Galilea.' Daar zullen jullie hem zien, zoals hij jullie gezegd heeft."
 
@@ -1426,13 +1429,13 @@ En de grote menigte luisterde met genoegen naar hem.
 
 16:09 Maar hij stond vroeg op de eerste dag van de week op en verscheen het eerst aan Maria Magdalena, bij wie hij zeven demonen had uitgedreven.
 
-16:10 Ze ging heen en vertelde het aan degenen die bij hem waren geweest, terwijl ze rouwden en weenden.
+16:10 Ze ging heen en vertelde het aan degenen die bij hem waren geweest, terwijl ze rouwden en huilden.
 
 16:11 Toen ze hoorden, dat hij leefde en door haar gezien was, geloofden ze het niet.
 
-16:12 Daarna verscheen hij in een andere gedaante aan twee van hen, terwijl ze buiten wandelden.
+16:12 Daarna verscheen hij in een andere gedaante aan twee van hen, terwijl ze door het land liepen.
 
-16:13 Toen ze weggegaan waren, vertelden ze het aan de anderen, en ook ze geloofden het niet.
+16:13 Toen ze heengegaan waren, vertelden ze het aan de anderen, en ook hen geloofden ze niet.
 
 16:14 Daarna verscheen hij aan de Elven, terwijl ze aanlagen, en hij verweet hen hun ongeloof en de hardheid van hun hart, omdat ze geen geloof hadden geschonken aan hen, die hem gezien hadden, nadat hij was opgewekt.
 
@@ -1440,11 +1443,11 @@ En de grote menigte luisterde met genoegen naar hem.
 
 16:16 Wie gelooft en zich laat dopen, zal behouden worden; maar wie niet gelooft, zal veroordeeld worden.
 
-16:17 Deze tekenen zullen degenen volgen die geloofd hebben: in mijn naam zullen ze demonen uitdrijven, ze zullen in tongen spreken;
+16:17 Deze tekenen zullen degenen volgen die geloofd hebben: in mijn naam zullen ze demonen uitdrijven, ze zullen in tongen spreken,
 
 16:18 slangen zullen ze in hun handen nemen, en als ze iets dodelijks drinken, zal het hun in het geheel niet schaden; ze zullen de zieken de handen opleggen en ze zullen genezen."
 
 16:19 Nadat de Heer Jezus tot hen gesproken had, werd hij opgenomen in de hemel en ging zitten aan Gods rechterhand.
 
-16:20 En ze gingen uit en predikten overal, en de Heer werkte met hen mee en bevestigde het woord door de tekenen, die erop volgden. Amen.
+16:20 En ze gingen heen en predikten overal, en de Heer werkte met hen mee en bevestigde het woord door de tekenen, die erop volgden. Amen.
 

@@ -7,8 +7,7 @@ English:
 KJV
 WEBU
 
-Dutch:
-VB [Vrije Bijbel]
+Dutch
 
 Welsh
 
@@ -18,7 +17,12 @@ Gothic
 Latin
 
 Greek
+(also in transliteration)
 
 Esperanto
 
+Ido
+
 Lingua Franca Nova (Elefen)
+
+Interlingua

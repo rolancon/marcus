@@ -6,6 +6,7 @@ Public domain Bible translations of the Gospel of Mark, edited so they have the 
 English:
 KJV
 WEBU
+YLT
 
 Dutch
 
@@ -24,5 +25,7 @@ Esperanto
 Ido
 
 Lingua Franca Nova (Elefen)
+
+Interlingue
 
 Interlingua

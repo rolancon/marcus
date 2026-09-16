@@ -782,11 +782,11 @@ El ia vade a la viletas visina e ia ensenia.
 
 09:43 Si vosa mano fa ce vos peca, talia lo. Lo es plu bon ce on entra ferida a vive ca con du manos on vade a Gehena, a la foca nonestinguable.
 
-09:44 []
+09:44 {}
 
 09:45 E si vosa pede causa vos peca, corti lo. Lo es plu bon entre a vive descapasida ca con du pedes es lansada a Gehena.
 
-09:46 []
+09:46 {}
 
 09:47 E si vosa oios causa vos peca, estrae lo car lo es plu bon entra en la rena de Dio con un sola oio ca con du oios es lansada a Gehena,
 

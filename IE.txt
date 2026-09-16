@@ -562,7 +562,7 @@ Jesu viageat tra li adjacent villages e instructet.
 
 07:15 Nequó quo ínea de externe in li hom posse fa le ínpur, ma solmen to quo exea ex li hom, to posse fa le ínpur.
 
-07:16 []
+07:16 {}
 
 07:17 Il forlassat li turbul e intrat in un dom. Tande su disciplos questionat pri li sense de su misteriori paroles.
 
@@ -781,11 +781,11 @@ Jesu viageat tra li adjacent villages e instructet.
 
 09:43 Si tui manu seducte te a lu mal, tande decupa it. It es plu bon por te inear mutilat in li eternal vive quam venir con du manus in li inferne, in li nequande extintent foy.
 
-09:44 []
+09:44 {}
 
 09:45 E si tui pede seducte te a lu mal, tande decupa it, it es plu bon por te, inear mutilat in li eterni vive quam esser jettat con du pedes in li inferne.
 
-09:46 []
+09:46 {}
 
 09:47 E si tui ocul secucte te a lu mal, tande extira it. It es plu bon por ti inear in li imperie de Deo unoculat quam esser jettat con du ocules in li inferne
 
@@ -1363,7 +1363,7 @@ Un grand hom-masse hat assemblat se e escutat a il con joya.
 
 15:27 Ili crucificat con il du rauberos, un a levul de il e li altri a dextri de il.
 
-15:28 []
+15:28 {}
 
 15:29 Li homes qui passat, mocat le, sucusset li cap e vocat: Ah, tu vole destructer li temple e vole erecter it denov in tri dies?
 

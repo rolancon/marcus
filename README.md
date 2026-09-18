@@ -4,11 +4,14 @@ Public domain Bible translations of the Gospel of Mark, edited so they have the 
 
 
 English:
+BTV
 KJV
 WEBU
 YLT
 
-Dutch
+Dutch:
+NL
+SVT
 
 Welsh
 

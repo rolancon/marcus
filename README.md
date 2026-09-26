@@ -20,7 +20,7 @@ Gothic
 
 Latin
 
-Greek
+Greek [RP]
 (also in transliteration)
 
 Esperanto

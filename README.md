@@ -10,7 +10,7 @@ WEBU
 YLT
 
 Dutch:
-NL
+VB [ToDo]
 SVT
 
 Welsh
@@ -27,8 +27,11 @@ Esperanto
 
 Ido
 
-Lingua Franca Nova (Elefen)
+Biblio [WIP]
+
+Lingua Franca Nova [Elefen]
 
 Interlingue
+
 
 Interlingua

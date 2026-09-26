@@ -27,7 +27,7 @@ Esperanto
 
 Ido
 
-Biblio [WIP]
+Koinido [WIP]
 
 Lingua Franca Nova [Elefen]
 
